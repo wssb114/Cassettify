@@ -1,3 +1,6 @@
+##将节拍检测器换成了https://github.com/CPJKU/beat_this
+
+
 # Cassettify
 
 Cassettify is an improvement over my old [EasyCassetteImages](https://github.com/roboltz/EasyCassetteImages) app
@@ -47,7 +50,7 @@ Please report any issues you experience to the issues tab, but check to see if t
 
 ## Planned Additions
 * Constant BPM mode. (for better support for most newer digital music)
-* BPM Range for the automatic beat finder (set the range you want the bpm to be set to for higher or lower bpm limits)
+* BPM Range for the automatic beat finder (set the Range you want the bpm to be set to for higher or lower bpm limits)
 * Button in track menu to listen to the song with beat ticks
 * Visual Beat editor (similar to the base game's, but with some extra features like beat snapping, this will take a while and wont be added until much later)
 
